@@ -203,6 +203,7 @@ input, select, textarea {
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
 		width:100%;
+		color: black;
 	}
 
 	header {
